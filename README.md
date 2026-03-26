@@ -9,7 +9,7 @@
 ---
 
 **Student Name:** Lavanya Bisht 
-**Registration no.25BAI11133 
+**Registration no.**25BAI11133 
 **Course:** B.Tech CSE (AI & ML), 1st Year  
 **Institution:** VIT Bhopal University  
 
