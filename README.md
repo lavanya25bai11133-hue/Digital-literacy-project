@@ -1,6 +1,5 @@
 # Student Digital Portfolio & Cyber-Awareness Project
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -70,5 +69,5 @@ One of the most critical takeaways from this project is that **your UPI PIN is o
 * **Kaggle:** [https://www.kaggle.com/lavanyabisht25](#)
 * **Google Form:** [https://docs.google.com/forms/d/e/1FAIpQLSezMXN3ide7MC2X9zch_xKMnWGjcp3NR7WkxsWihAnDF35GDw/viewform?usp=publish-editor](#)
 * **Canva:** [https://canva.link/60cvw8z6r5udt73](#)
-
+* **heckrank:** [https://www.hackerrank.com/profile/lavanya_25bai112](#)
 *This project was completed as part of the Digital Literacy & Professional Development Module at VIT Bhopal University.*
