@@ -8,8 +8,8 @@
 
 ---
 
-**Student Name:** Shubham Yadav  
-**Roll Number:** 11H114 | **Admission Number:** 6018  
+**Student Name:** Lavanya Bisht 
+**Registration no.25BAI11133 
 **Course:** B.Tech CSE (AI & ML), 1st Year  
 **Institution:** VIT Bhopal University  
 
