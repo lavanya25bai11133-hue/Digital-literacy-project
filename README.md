@@ -8,8 +8,8 @@
 
 ---
 
-**Student Name:** Lavanya Bisht 
-**Registration No:** 25BAI11133
+**Student Name:** Lavanya Bisht  
+**Registration No:** 25BAI11133  
 **Course:** B.Tech CSE (AI & ML), 1st Year  
 **Institution:** VIT Bhopal University  
 
@@ -66,8 +66,9 @@ One of the most critical takeaways from this project is that **your UPI PIN is o
 ---
 
 ## 🔗 Contact & Professional Links
-* **LinkedIn:** [View My Profile](#)
-* **Kaggle:** [View My Competitions](#)
-* **GitHub Profile README:** [Requirement #6 Check]
+* **LinkedIn:** [https://www.linkedin.com/in/lavanya-bisht-b9a4873ba/](#)
+* **Kaggle:** [https://www.kaggle.com/lavanyabisht25](#)
+* **Google Form:** [https://docs.google.com/forms/d/e/1FAIpQLSezMXN3ide7MC2X9zch_xKMnWGjcp3NR7WkxsWihAnDF35GDw/viewform?usp=publish-editor](#)
+* **Canva:** [https://canva.link/60cvw8z6r5udt73](#)
 
 *This project was completed as part of the Digital Literacy & Professional Development Module at VIT Bhopal University.*
