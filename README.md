@@ -69,5 +69,5 @@ One of the most critical takeaways from this project is that **your UPI PIN is o
 * **Kaggle:** [https://www.kaggle.com/lavanyabisht25](#)
 * **Google Form:** [https://docs.google.com/forms/d/e/1FAIpQLSezMXN3ide7MC2X9zch_xKMnWGjcp3NR7WkxsWihAnDF35GDw/viewform?usp=publish-editor](#)
 * **Canva:** [https://canva.link/60cvw8z6r5udt73](#)
-* **heckrank:** [https://www.hackerrank.com/profile/lavanya_25bai112](#)
+* **heckrank:** [https://www.hackerrank.com/profile/lavanya_25bai112](#)  
 *This project was completed as part of the Digital Literacy & Professional Development Module at VIT Bhopal University.*
