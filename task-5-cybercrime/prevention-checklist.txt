@@ -1,0 +1,12 @@
+﻿Stay Safe Online: Prevention Checklist
+1. PIN is for Paying, Not Receiving: Never enter your UPI PIN to receive money. A PIN is only required to deduct money from your account.
+2. Verify Official Apps: Always download banking and UPI apps (like BHIM, GPay, or PhonePe) only from the official Play Store or App Store.
+3. Enable Two-Factor Authentication (2FA): Activate 2FA on all social media and email accounts to add an extra layer of security beyond just a password.
+4. Practice Link Skepticism: Do not click on "shortened links" (like bit.ly or tinyurl) received via SMS or WhatsApp claiming you have won a prize or scholarship.
+5. Use Strong, Unique Passwords: Avoid using your name, birthdate, or "123456." Use a combination of symbols, numbers, and capital letters.
+6. Secure Your Social Media: Regularly audit your privacy settings to ensure your phone number and email address are not visible to the public.
+7. Avoid Public Wi-Fi for Transactions: Never log into your bank account or perform UPI transactions while connected to free public Wi-Fi in cafes or railway stations.
+8. Regular Software Updates: Keep your smartphone's operating system and security patches updated to protect against the latest malware and vulnerabilities.
+� How to Report Cybercrime in India:
+* National Cyber Crime Reporting Portal: [suspicious link removed]
+* National Helpline Number: 1930
